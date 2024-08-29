@@ -32,33 +32,6 @@
 
 ---
 
-## 🖥️ Projects:
-<p align="center">
-    <a href="https://your-project-link.com" target="_blank">
-        <img src="https://via.placeholder.com/150" alt="Project 1" style="width:150px; height:auto;"/>
-    </a>
-    <a href="https://your-project-link.com" target="_blank">
-        <img src="https://via.placeholder.com/150" alt="Project 2" style="width:150px; height:auto;"/>
-    </a>
-    <a href="https://your-project-link.com" target="_blank">
-        <img src="https://via.placeholder.com/150" alt="Project 3" style="width:150px; height:auto;"/>
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://your-project-link.com" target="_blank">
-        <img src="https://via.placeholder.com/150" alt="Project 4" style="width:150px; height:auto;"/>
-    </a>
-    <a href="https://your-project-link.com" target="_blank">
-        <img src="https://via.placeholder.com/150" alt="Project 5" style="width:150px; height:auto;"/>
-    </a>
-    <a href="https://your-project-link.com" target="_blank">
-        <img src="https://via.placeholder.com/150" alt="Project 6" style="width:150px; height:auto;"/>
-    </a>
-</p>
-
----
-
 <p align="center">
     <a href="https://visitcount.itsvg.in" target="_blank"><img src="https://visitcount.itsvg.in/api?id=Habence&icon=0&color=0" alt="Visit Count"></a>
 </p>
