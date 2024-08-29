@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm Vince Micklay</h1>
 <h3 align="center">I am passionate about creating dynamic and responsive websites that offer exceptional user experiences.</h3>
 
