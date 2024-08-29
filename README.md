@@ -6,8 +6,8 @@
 ## 🌐 Connect with Me:
 <p align="center">
     <a href="https://facebook.com/Vne" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
-    <a href="https://instagram.com/v.n.c.e" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-</p>
+<!--     <a href="https://instagram.com/v.n.c.e" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+</p> -->
 
 ---
 
