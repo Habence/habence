@@ -6,8 +6,7 @@
 ## 🌐 Connect with Me:
 <p align="center">
     <a href="https://facebook.com/Vne" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
-<!--     <a href="https://instagram.com/v.n.c.e" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-</p> -->
+</p>
 
 ---
 
@@ -29,17 +28,6 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-</p>
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Habence&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habence&theme=dark&hide_border=false" alt="GitHub Streak">
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habence&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
 ---
