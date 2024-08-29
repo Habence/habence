@@ -1,5 +1,5 @@
 Hi!
-
+Aspiring IT professional with a passion for technology and continuous learning. Seeking an entry-level opportunity to apply foundational programming and technical skills. Known for a strong work ethic, attention to detail, and collaborative problem-solving. Eager to gain practical experience and contribute meaningfully to projects while working with experienced professionals. Highly motivated to enhance my skill set through hands-on experience and continuous professional development. Committed to contributing to team success and bringing innovative solutions to complex problems. Enthusiastic about leveraging my knowledge to support organizational goals and improve technological solutions.
 
 
 ## 🌐 Socials:
